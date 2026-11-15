@@ -1,1 +1,12 @@
-{"revision": "03d50badd68a7523afd2f0fe8635d9af14ca433a", "files": {"journal/cnc-dogal-tas-duvar-paneli-dis-kose.html": "de06e25b9494c5959af86e9b78691f2adec162e57c38177f158019e6aeb04ee7", "en/journal/external-corners-custom-cnc-stone-wall-panels.html": "169f24005c7067a914afb398ba2bd516fa149c89e62cc1d605c6d6ec7f016e46", "journal.html": "de21d607f640e7c682d3c4c12beed044c72b8b6d95f82ea3efc47538cbc7d23a", "en/journal.html": "f1b1e6ca977089d6aad16a35349b643b20b5223b8141da253f9a2f01e9e6c481", "sitemap.xml": "4fdce670bb58ab7220e7f0021bdc50049f8b3d420622287509ff56b18d41ff35", "assets/journal/cnc-stone-external-corner-600.webp": "407738bcfcb505005c494b1a0576f9741c0b8e86baf66ffb4c843fd040d3d67f", "assets/journal/cnc-stone-external-corner-1200.webp": "01b1ca4df35416630876b125ae82cc58cd6a078e2d9a4263afd219c763799a45"}}
+{
+  "revision": "fca19c1754b13f3a078dad824f0b1709c1f78b28",
+  "files": {
+    "journal/otel-asansor-holu-dogal-tas-duvar-kaplamasi.html": "2885592f546fab85f5b430cd711a78b128cf4f40bc5cd79f858e989c56b1fa5a",
+    "en/journal/patterned-natural-stone-wall-cladding-hotel-lift-lobby.html": "3e91273352a6bbfd27cd6795eaf9539d206c15410ff4409344fbc911a36be170",
+    "journal.html": "9197e34f17d3f1ae213e3ba3b387e5af72e849bd1bf7fcdc90d4308e1a5bae1d",
+    "en/journal.html": "41a974f169d2226a1959f5a125653577bd244b6c5da8d26c1d12f316bf0f955d",
+    "sitemap.xml": "888f6c50f812c3de8bb984c4805459c68693a42777bb7fc02cc8db6bbdc3465f",
+    "assets/journal/hotel-lift-lobby-stone-600.webp": "47e87d5f2fd4f9fcb5d1b0317c1a10beda2a929041f4438e36277e5b69767b82",
+    "assets/journal/hotel-lift-lobby-stone-1200.webp": "0155d81eea7446734885359ef75022532c7382ffa27898d2485b87cfa608410f"
+  }
+}
