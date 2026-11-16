@@ -1,12 +1,12 @@
 {
-  "revision": "fca19c1754b13f3a078dad824f0b1709c1f78b28",
+  "revision": "7c86970bb5a2fcf10f030fee6d33eaf5565d90b0",
   "files": {
-    "journal/otel-asansor-holu-dogal-tas-duvar-kaplamasi.html": "2885592f546fab85f5b430cd711a78b128cf4f40bc5cd79f858e989c56b1fa5a",
-    "en/journal/patterned-natural-stone-wall-cladding-hotel-lift-lobby.html": "3e91273352a6bbfd27cd6795eaf9539d206c15410ff4409344fbc911a36be170",
-    "journal.html": "9197e34f17d3f1ae213e3ba3b387e5af72e849bd1bf7fcdc90d4308e1a5bae1d",
-    "en/journal.html": "41a974f169d2226a1959f5a125653577bd244b6c5da8d26c1d12f316bf0f955d",
-    "sitemap.xml": "888f6c50f812c3de8bb984c4805459c68693a42777bb7fc02cc8db6bbdc3465f",
-    "assets/journal/hotel-lift-lobby-stone-600.webp": "47e87d5f2fd4f9fcb5d1b0317c1a10beda2a929041f4438e36277e5b69767b82",
-    "assets/journal/hotel-lift-lobby-stone-1200.webp": "0155d81eea7446734885359ef75022532c7382ffa27898d2485b87cfa608410f"
+    "journal/acik-raf-arkasi-desenli-dogal-tas.html": "d00e63a45360c565961d503aa62c4bc8e6ca1278e39d3353524ac602262f4560",
+    "en/journal/patterned-natural-stone-wall-panels-open-shelving.html": "8fe588682b9ff0fbe3f28bb4d4d7599f98e6d6e3138bf2ddb23b1cec8ad28787",
+    "journal.html": "0b55f109e4cfc4d90e62024ec45bfe59c5faa47e00123e6fd962905a26c72284",
+    "en/journal.html": "1906fb975efb3e30d7293fddf9dfd36415182b3d90f070591e494252530fb5b1",
+    "sitemap.xml": "51a1348247a5dd9dc5f00b8c3517b6d694363d8622325cae22cc9ed099d51300",
+    "assets/journal/stone-open-shelf-600.webp": "10879faeee938cb18b996189bca5c6537df98adeba05c2b0050751b19a558037",
+    "assets/journal/stone-open-shelf-1200.webp": "c495983136e04959709a4e7a033e3bebbb0cc16b8964a3072aa8080cf8319560"
   }
 }
