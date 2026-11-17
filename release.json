@@ -1,12 +1,12 @@
 {
-  "revision": "7c86970bb5a2fcf10f030fee6d33eaf5565d90b0",
+  "revision": "dedf65365af8f6a51a8d583533a3d67e60886fd8",
   "files": {
-    "journal/acik-raf-arkasi-desenli-dogal-tas.html": "d00e63a45360c565961d503aa62c4bc8e6ca1278e39d3353524ac602262f4560",
-    "en/journal/patterned-natural-stone-wall-panels-open-shelving.html": "8fe588682b9ff0fbe3f28bb4d4d7599f98e6d6e3138bf2ddb23b1cec8ad28787",
-    "journal.html": "0b55f109e4cfc4d90e62024ec45bfe59c5faa47e00123e6fd962905a26c72284",
-    "en/journal.html": "1906fb975efb3e30d7293fddf9dfd36415182b3d90f070591e494252530fb5b1",
-    "sitemap.xml": "51a1348247a5dd9dc5f00b8c3517b6d694363d8622325cae22cc9ed099d51300",
-    "assets/journal/stone-open-shelf-600.webp": "10879faeee938cb18b996189bca5c6537df98adeba05c2b0050751b19a558037",
-    "assets/journal/stone-open-shelf-1200.webp": "c495983136e04959709a4e7a033e3bebbb0cc16b8964a3072aa8080cf8319560"
+    "journal/restoran-banket-arkasi-dogal-tas-panel.html": "a0501be4cc124ee1a0df5d13ccfc7ea4d52106081d70772ada2101c13559a47f",
+    "en/journal/natural-stone-wall-panels-restaurant-banquettes.html": "d60189410ff056a51b14dfd4b8333e81e71db09069c70ac6effdb8770467175e",
+    "journal.html": "3107f7cb4612c555e204a122d13f512f41f3c8164ec1da3ed47651578b6805b9",
+    "en/journal.html": "eb724d37f54559bba244fb177c2c3bea89c946407b63d621e8397f0eb630a940",
+    "sitemap.xml": "2d86610224e8c10b12bc007a1640c00bfa71949fc294430aacdea89ff3038048",
+    "assets/journal/stone-restaurant-banquette-600.webp": "a96eefc66a6cfe615ee8d1592a05fe7ba96b5cf58cec9b8c66a40aa1898b6a2a",
+    "assets/journal/stone-restaurant-banquette-1200.webp": "52e78288ef5b686235989563a26dc985380b510bbda6ca4484f7ce6d44f0bf16"
   }
 }
