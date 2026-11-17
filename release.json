@@ -1,12 +1,24 @@
 {
-  "revision": "dedf65365af8f6a51a8d583533a3d67e60886fd8",
+  "revision": "0d4cbc2cc8e93aa786a06ec57eaa43125b163f42",
   "files": {
-    "journal/restoran-banket-arkasi-dogal-tas-panel.html": "a0501be4cc124ee1a0df5d13ccfc7ea4d52106081d70772ada2101c13559a47f",
-    "en/journal/natural-stone-wall-panels-restaurant-banquettes.html": "d60189410ff056a51b14dfd4b8333e81e71db09069c70ac6effdb8770467175e",
-    "journal.html": "3107f7cb4612c555e204a122d13f512f41f3c8164ec1da3ed47651578b6805b9",
-    "en/journal.html": "eb724d37f54559bba244fb177c2c3bea89c946407b63d621e8397f0eb630a940",
-    "sitemap.xml": "2d86610224e8c10b12bc007a1640c00bfa71949fc294430aacdea89ff3038048",
-    "assets/journal/stone-restaurant-banquette-600.webp": "a96eefc66a6cfe615ee8d1592a05fe7ba96b5cf58cec9b8c66a40aa1898b6a2a",
-    "assets/journal/stone-restaurant-banquette-1200.webp": "52e78288ef5b686235989563a26dc985380b510bbda6ca4484f7ce6d44f0bf16"
+    "assets/journal/linkedin-production-a-600.webp": "0f803b1fd18b4893b52af17bde03b34ab38a8e995e37e477fc8ab6bd93f65bb4",
+    "assets/journal/linkedin-production-a-1200.webp": "f807103ffcad2c8a3a5109696edd40b091fef389f912a32423486545b15c6f6b",
+    "assets/journal/linkedin-production-a-2-600.webp": "6ac4f851e87ffe8be7fc4aea1b2d390a2c8b7983d2306aa1b81867b52c925be3",
+    "assets/journal/linkedin-production-a-2-1200.webp": "c104c72de0dfa44fa89b532a1a1aa1d75ed1462ddcaff60e708bffdb3f40fa7b",
+    "assets/journal/linkedin-production-a-3-600.webp": "7860c60bf919af6d144c42196cf02f268ee90934eb35842ef1fd291e91adf3d8",
+    "assets/journal/linkedin-production-a-3-1200.webp": "1edb32e0356d9ed45675fdd5f15a4ca2451dd7202b52decbb3ae6e3027ef7744",
+    "assets/journal/linkedin-production-a-4-600.webp": "902e68e71e329f81139004d79d3a5929d78383d9fe5f19852058d02e36a5bcd4",
+    "assets/journal/linkedin-production-a-4-1200.webp": "6ff0d9a5276ab2ba83ba26b1a2664db4e49761963e463bbba43569a643466e87",
+    "assets/journal/linkedin-production-b-600.webp": "1590217dca66a0a7c91ae435be8572cebb36eb6d7109dbd449f918ef6d84e952",
+    "assets/journal/linkedin-production-b-1200.webp": "0ac2e0c587ef7b38b17117a55975800214d4ae849cad4b77e674a121cfc2e3e9",
+    "assets/journal/linkedin-production-b-2-600.webp": "f30342991214c7610fd99babffe88a30156ce7b63a7a9c498e6a72313c20ea6e",
+    "assets/journal/linkedin-production-b-2-1200.webp": "eed8864ce8b7e3d18badc2c36ac19eb0f18e4c26d8e0dd344d48f83f26a6a174",
+    "journal/isik-maden-dogal-tas-masa-uretimi.html": "3f6cebc3b217d8fb97d99a3fb779d7d5e2a55ab2b52d705de8a97ec3e0d2105c",
+    "en/journal/isik-maden-custom-natural-stone-tables.html": "cbc23b0d0fc9b8368d560f1bc0a44bc07a1e98625d866faab25bebcb20b72faa",
+    "journal/isik-maden-marmix-cnc-dogal-tas-uretimi.html": "d307732f9c467b981a498e5f363c79845f59737f41ac4f4de27cecff87229f25",
+    "en/journal/isik-maden-marmix-cnc-natural-stone-production.html": "0a30fb33255cbf9d2e7bcc74f22dfb4f14b42e6e75ea2268280d8fd8dff939de",
+    "journal.html": "3a696c60ab1528768c5d1538e04cd55afb345991b542be92fe3531be5ba7885a",
+    "en/journal.html": "d63bb951e1b50a8065b34796ff4add849660bd8a9a5dff85f2d54f9498102edc",
+    "sitemap.xml": "8918275bd145e60a789fb592aaafb2fa2f4455fd4f357a1b03612a1bd1ed5434"
   }
 }
