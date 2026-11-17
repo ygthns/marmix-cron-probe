@@ -1,24 +1,6 @@
 {
-  "revision": "5f380a1cf419d8f0c91bb2d2b67b6b606b828e79",
+  "revision": "e7ff60ea8d64148133d91b3cbf72e2db3e30ea01",
   "files": {
-    "assets/journal/isik-production-a-1.jpg": "a38d1de728db241c02e006934d58430ff27b91abe459a13953dddebdef5f9f70",
-    "assets/journal/isik-production-a-1-preview.webp": "caf4c760da82032f5f8b3a7fb581cbb0097496514410268c33115f028b2e7f40",
-    "assets/journal/isik-production-a-2.jpg": "e06430966c2df77c4b21d35482a9cd83696cbdfeb9e42c7b0f2fb04af3857648",
-    "assets/journal/isik-production-a-2-preview.webp": "ef3c44219142a2fa166f40622a4ce7496187baa6793b0ab97b90e72ce7f4c243",
-    "assets/journal/isik-production-a-3.jpg": "47a17335bf1d76b306c171a06b1a051c28d3c930cf6581aab298611788b594fc",
-    "assets/journal/isik-production-a-3-preview.webp": "80428876edbbc2e478d6f7ac88e775d233bdd7851d9e512990967ea217b69fb1",
-    "assets/journal/isik-production-a-4.jpg": "49aea4eaad4117bde8ecc80ad564433db633e418268bca38d6c5adc6c6d6bcaf",
-    "assets/journal/isik-production-a-4-preview.webp": "9ca9bf2194686bd508ef6df8d558390654dc4afd319f6c2e6c7c87e9d15d99ca",
-    "journal/isik-maden-dogal-tas-masa-uretimi.html": "f2733ba7a9a1d6ad0681fd425531d9dc8fe8b40cb9032701a20407fce39a03e4",
-    "en/journal/isik-maden-custom-natural-stone-tables.html": "59f53cc7f90f76856effbf5fea653fd900343c375626cd75d1606d88bed165ff",
-    "assets/journal/isik-production-b-1.jpg": "3e20c71b21dcd6a3d3d226fd02ffc9dc1a10652eff9945bf4070130fe1a6b909",
-    "assets/journal/isik-production-b-1-preview.webp": "3416108c284ab827f03536411fb0c47d784cdfb4ebadeb330b0b5db62972df58",
-    "assets/journal/isik-production-b-2.jpg": "65ed39a7c6fafc588a18233276ae5d2751a7dac03f052c4b81ac92615f3e5fae",
-    "assets/journal/isik-production-b-2-preview.webp": "9e3db8bc90dc490e7e61020d19f738cda2b34b4de688ab7609745e5d02c6f8ed",
-    "journal/isik-maden-marmix-cnc-dogal-tas-uretimi.html": "89b318094b72a3eb4d6159af936076bacde1b7508424317f78d2de178be340fa",
-    "en/journal/isik-maden-marmix-cnc-natural-stone-production.html": "7424fc25d52710317f3bf13f406b5ee81c2864e3cbf48587be6ed33e5c3e313a",
-    "sitemap.xml": "e0cf993ea00a24fc426909b8dfda1667fb14552dfacc2fe54effc0b8bae77c09",
-    "journal.html": "473330e7e8cbef301fa16a4eefb4878a387ff632ebb26c7bcff5b73e14d88e7c",
-    "en/journal.html": "8e2d45d98960ac74bdc9b23b4ff5ebe5af1b50e94f9867c2762613504c18cbb6"
+    "en/journal/isik-maden-marmix-cnc-natural-stone-production.html": "8613a79f8f20afa8b5ba455da1d9bebfcd4bb98c4f42b4dc3e94db509815ee51"
   }
 }
