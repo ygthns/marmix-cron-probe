@@ -1,12 +1,22 @@
 {
-  "revision": "003cc6c033c6b0c1715933cf38b6095d29c0fd94",
+  "revision": "e0cc0569aa3c63f249cb05d3ce0e0824127e6643",
   "files": {
-    "journal/somine-cevresi-mermer-duvar-kaplamasi.html": "89097af5bfaea1357b749cdc61642e5d7afa5ae6eb9c1692768252c917221834",
-    "en/journal/marble-wall-cladding-fireplace-surround.html": "ef8bb628a73e49a3e9e4045447cbe36580464a18d170ac7250ba80b79a9976b3",
-    "journal.html": "8cf51ffe9829f5b13a38e6c9f21ca028fc9f6cda1a1d88869f438bcea39508c4",
-    "en/journal.html": "f8151c27c2278b443609917c2824893d1c8a22a7068fb86dfa35083c5aef7483",
-    "sitemap.xml": "62d35f54744e3ca879751b9a27c02b3f4d5f817555be22acd742cb81eb672558",
-    "assets/journal/marble-fireplace-feature-wall-600.webp": "bb1d2269bb768c45c0d31c3eb113973e16efefe85f87e369d14cd9c023a8ab63",
-    "assets/journal/marble-fireplace-feature-wall-1200.webp": "de5b40530d544d966881b906a9fd5c8810e86093daa738b1524debfe8b48da10"
+    "journal/marmix-birlesik-krallik-ilk-dogal-tas-sevkiyati.html": "9709674b0a6e61ff9f8f285710117a09c17e1ce98f0156738e050944211eecc4",
+    "en/journal/marmix-first-uk-natural-stone-shipment.html": "422a2e8122001fd23ad5fa0c844eb358087fce0bf35728d72a16fdd258cc72bc",
+    "assets/journal/first-uk-dispatch-cover.jpg": "41a856165015167d6ba454357a2a1635558b7a98f6020418ac2d981dc1486fe4",
+    "assets/journal/first-uk-dispatch-cover-600.webp": "914eaf63aceec0d5fe422f438e1e074f9697e04c9346669132bbf36d45021d0c",
+    "assets/journal/first-uk-dispatch-cover-1000.webp": "bdada2aaa07e0bc2fdc9631ea5cdc9fc654e37599acda399be37f82de3f4e43b",
+    "assets/journal/first-uk-dispatch-sesmari-labels.jpg": "fb53588f9055f9ed0c6bc1cf84a16e39bb6a2486771b6ef6a622b63b449219a9",
+    "assets/journal/first-uk-dispatch-sesmari-labels-600.webp": "617a99273b09efa0b7b1a1e3f7aafb4396a4a3f5ba458c48542873d58f3ea894",
+    "assets/journal/first-uk-dispatch-sesmari-labels-1000.webp": "328ce770145450875b9fa18b307e0be29997a9f609710e7d0733820bfc98bee2",
+    "assets/journal/first-uk-dispatch-takot-crate.jpg": "41009e6c170b737d037b35bf57380be8618c8b7e2e2ecf5c2a59106e653e90e4",
+    "assets/journal/first-uk-dispatch-takot-crate-600.webp": "712d27f94ac32c9da1750b91749001dbb53f04ec172f1d5b7d06afe19e0105db",
+    "assets/journal/first-uk-dispatch-takot-crate-1000.webp": "d4dec549bea40551527bb09c3a796845f3aa5c20459736424afc9d38d37db19f",
+    "assets/journal/first-uk-dispatch-crated-cartons.jpg": "fd0562355aed76702608f14cd5dbe815da54297c2eb53283c0b03c48d5985e4a",
+    "assets/journal/first-uk-dispatch-crated-cartons-600.webp": "2307e83f532e1778edbbb325d2e26cca9b5ced63b37014e8ef2f3d982ee6d7ef",
+    "assets/journal/first-uk-dispatch-crated-cartons-1000.webp": "759221f5786a3841854e6817b6df49591511edc6893ec9598f9885081302a45c",
+    "journal.html": "ae25df283bb121e3e394c6e93877d35c57c92f91ca50ad26d5e0d9c1b325ad36",
+    "en/journal.html": "822a657fcec9bbdf4bb46b02d2e8bcb7ac9bf5c9ea6993066c7d73581a611a6e",
+    "sitemap.xml": "acd25410d456e77adbce43431cea31b18033a723ad9a7e496b4428317469456a"
   }
 }
