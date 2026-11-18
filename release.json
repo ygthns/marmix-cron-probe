@@ -1,6 +1,12 @@
 {
-  "revision": "e7ff60ea8d64148133d91b3cbf72e2db3e30ea01",
+  "revision": "003cc6c033c6b0c1715933cf38b6095d29c0fd94",
   "files": {
-    "en/journal/isik-maden-marmix-cnc-natural-stone-production.html": "8613a79f8f20afa8b5ba455da1d9bebfcd4bb98c4f42b4dc3e94db509815ee51"
+    "journal/somine-cevresi-mermer-duvar-kaplamasi.html": "89097af5bfaea1357b749cdc61642e5d7afa5ae6eb9c1692768252c917221834",
+    "en/journal/marble-wall-cladding-fireplace-surround.html": "ef8bb628a73e49a3e9e4045447cbe36580464a18d170ac7250ba80b79a9976b3",
+    "journal.html": "8cf51ffe9829f5b13a38e6c9f21ca028fc9f6cda1a1d88869f438bcea39508c4",
+    "en/journal.html": "f8151c27c2278b443609917c2824893d1c8a22a7068fb86dfa35083c5aef7483",
+    "sitemap.xml": "62d35f54744e3ca879751b9a27c02b3f4d5f817555be22acd742cb81eb672558",
+    "assets/journal/marble-fireplace-feature-wall-600.webp": "bb1d2269bb768c45c0d31c3eb113973e16efefe85f87e369d14cd9c023a8ab63",
+    "assets/journal/marble-fireplace-feature-wall-1200.webp": "de5b40530d544d966881b906a9fd5c8810e86093daa738b1524debfe8b48da10"
   }
 }
