@@ -1,12 +1,28 @@
 {
-  "revision": "da1b46c0c9f56ab13305db9458ca4a3ea539c329",
+  "revision": "abaf8ad7c07e43021c0377ce568c6eca8d912a66",
   "files": {
-    "journal/villa-salonu-renkli-mermer-odak-duvari.html": "60668a0666e4f581de12bf9b900e648457ada44facd0632707d027aea9d4e7df",
-    "en/journal/bespoke-coloured-marble-feature-wall-villa-living-room.html": "48fe7759df207ce7910539cbe7551c5211c7782b69834c9233e065d63a690e27",
-    "journal.html": "9bf0fe3bf44432ee7ce1f2debb7d0dec021ddbbbf18d30097d9600e8046e167e",
-    "en/journal.html": "95d0723a8e35789306d99d0ee877810ff18141dc23acbd9af9175ef8c3e51971",
-    "sitemap.xml": "f80c7a2c8cbf8ca9a86663ced287bd121a9389c82ad2c65a0944a150f3c247b4",
-    "assets/journal/villa-marble-colour-layout-600.webp": "73521cd87a20b203bbc1a19632a131709b28ce558371e779825525c1e0b90ec2",
-    "assets/journal/villa-marble-colour-layout-1200.webp": "e25e9fa4dc3fec1f06649006945a61f17ef3d907bc7c6d7d1609a98b9a7775eb"
+    "assets/journal/marmix-recovery-limra-600.webp": "1d79a4b15c170d8560688e3a65f6a82f8eb8e22e7e091bf05450b29fd1e2e23d",
+    "assets/journal/marmix-recovery-limra-1200.webp": "27bf1c92f0379a1d396920bd4ca3e9c5ce5c4987ef3ebe04d552cfa06d0e43f4",
+    "assets/journal/marmix-recovery-motifs-600.webp": "263fd3eae0b397856d7c300227af2eebb79579a90043713a9cd6f2e4c6d8b25c",
+    "assets/journal/marmix-recovery-motifs-1200.webp": "14c87b0584228e4cef7d498b57c416343a523949e36c9d3b8533e1740ee1d949",
+    "assets/journal/marmix-recovery-us-600.webp": "e1bbae8986a620e5fb17fcbee2f6a106d91f88944f9997a6f3127ac7eb9b7729",
+    "assets/journal/marmix-recovery-us-1200.webp": "f998f283a2b1a7ea851e4b5384a000ec6ff29e97c73911c15bd79d223c5aca12",
+    "assets/journal/marmix-recovery-entrance-600.webp": "546050c1f40b9829b2517c21f0c48641aa4ff4454d65651b77d63414ecce56c9",
+    "assets/journal/marmix-recovery-entrance-1200.webp": "7fdb14025391272ed01b3b6a06ecb80639ddd9476606fc56ccfad6b3c9acf25f",
+    "assets/journal/marmix-recovery-sonic-600.webp": "de687d359097d70fb14c1379a0dc5aeeae8f58270bcdab6cc3883762c0d111df",
+    "assets/journal/marmix-recovery-sonic-1200.webp": "d1f9d4dc920bc87110f3ec9329cdaf20c7a6e3a57c23b96eb5611e187dcf0f14",
+    "journal.html": "d5cdd09202ce61d1f39416d12edb3c1dccb8edf0be92cf47e68e94d5e893e1b3",
+    "journal/ingiltere-limra-duvar-paneli-numune-teslim-kapsami.html": "df08aebef29ce8c68a824a6060bb9f87f1bc54291acdec132a90b569e2c59f84",
+    "journal/antik-misir-esintili-tas-duvar-motif-ritmi.html": "bf152463061f4c779d09d27b0f9eeacd52db7b4b2fbe33cfb041c9063a42c5ba",
+    "journal/abd-butik-otel-lobisi-cnc-tas-panel-tedarik-dosyasi.html": "d10bc8b4293c73d5319f8d4fa75af236c03864ad37dd074704d8e7849842a137",
+    "journal/ev-girisi-tek-duvar-dogal-tas-teklif-metraj.html": "36945d7511158374ebc16f7be5658a5f2fe29026cc4fc0d5b988f44bdf7828d5",
+    "journal/beyaz-visne-mermer-duvar-paneli-numune-karsilastirma.html": "17fa8926a3e262756d00113f1168d0f6c06431f55bf7734868735608d10fb441",
+    "en/journal.html": "7fd554679cf9f7a434de6bd580d739cb28b05546f628d1f6c53ac698d33d4e82",
+    "en/journal/uk-patterned-limra-wall-panels-sample-delivery-quote.html": "8b69d531412650e2054d542a0eb5616362fa1964d9384c1d1578edee3f754cb0",
+    "en/journal/egyptian-inspired-natural-stone-wall-motif-layout.html": "f21c71d1c1a60e54a395fd51ad8ef90d243186979a3512badecb38098dcfbb15",
+    "en/journal/us-boutique-hotel-lobby-cnc-stone-panel-specification.html": "a5bc909e069c64936cff14a6806c3df193d4bf200e14bf529cf6766ec22ba941",
+    "en/journal/small-entrance-stone-wall-quantity-and-quote.html": "91f8ce09a8bc5b61db51514bf3ce7d10b6c06cdbdba0879fb17a2f48d9b8913c",
+    "en/journal/white-burgundy-marble-wall-panel-sample-comparison.html": "018c1340d4960386296e926cd9bb75977fba77578617da815e759068cef90c27",
+    "sitemap.xml": "6904ae9daa5d2328c343c045ec4093747932d6264b91320e846c6b7d72306b2d"
   }
 }
