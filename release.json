@@ -1,22 +1,12 @@
 {
-  "revision": "e0cc0569aa3c63f249cb05d3ce0e0824127e6643",
+  "revision": "da1b46c0c9f56ab13305db9458ca4a3ea539c329",
   "files": {
-    "journal/marmix-birlesik-krallik-ilk-dogal-tas-sevkiyati.html": "9709674b0a6e61ff9f8f285710117a09c17e1ce98f0156738e050944211eecc4",
-    "en/journal/marmix-first-uk-natural-stone-shipment.html": "422a2e8122001fd23ad5fa0c844eb358087fce0bf35728d72a16fdd258cc72bc",
-    "assets/journal/first-uk-dispatch-cover.jpg": "41a856165015167d6ba454357a2a1635558b7a98f6020418ac2d981dc1486fe4",
-    "assets/journal/first-uk-dispatch-cover-600.webp": "914eaf63aceec0d5fe422f438e1e074f9697e04c9346669132bbf36d45021d0c",
-    "assets/journal/first-uk-dispatch-cover-1000.webp": "bdada2aaa07e0bc2fdc9631ea5cdc9fc654e37599acda399be37f82de3f4e43b",
-    "assets/journal/first-uk-dispatch-sesmari-labels.jpg": "fb53588f9055f9ed0c6bc1cf84a16e39bb6a2486771b6ef6a622b63b449219a9",
-    "assets/journal/first-uk-dispatch-sesmari-labels-600.webp": "617a99273b09efa0b7b1a1e3f7aafb4396a4a3f5ba458c48542873d58f3ea894",
-    "assets/journal/first-uk-dispatch-sesmari-labels-1000.webp": "328ce770145450875b9fa18b307e0be29997a9f609710e7d0733820bfc98bee2",
-    "assets/journal/first-uk-dispatch-takot-crate.jpg": "41009e6c170b737d037b35bf57380be8618c8b7e2e2ecf5c2a59106e653e90e4",
-    "assets/journal/first-uk-dispatch-takot-crate-600.webp": "712d27f94ac32c9da1750b91749001dbb53f04ec172f1d5b7d06afe19e0105db",
-    "assets/journal/first-uk-dispatch-takot-crate-1000.webp": "d4dec549bea40551527bb09c3a796845f3aa5c20459736424afc9d38d37db19f",
-    "assets/journal/first-uk-dispatch-crated-cartons.jpg": "fd0562355aed76702608f14cd5dbe815da54297c2eb53283c0b03c48d5985e4a",
-    "assets/journal/first-uk-dispatch-crated-cartons-600.webp": "2307e83f532e1778edbbb325d2e26cca9b5ced63b37014e8ef2f3d982ee6d7ef",
-    "assets/journal/first-uk-dispatch-crated-cartons-1000.webp": "759221f5786a3841854e6817b6df49591511edc6893ec9598f9885081302a45c",
-    "journal.html": "ae25df283bb121e3e394c6e93877d35c57c92f91ca50ad26d5e0d9c1b325ad36",
-    "en/journal.html": "822a657fcec9bbdf4bb46b02d2e8bcb7ac9bf5c9ea6993066c7d73581a611a6e",
-    "sitemap.xml": "acd25410d456e77adbce43431cea31b18033a723ad9a7e496b4428317469456a"
+    "journal/villa-salonu-renkli-mermer-odak-duvari.html": "60668a0666e4f581de12bf9b900e648457ada44facd0632707d027aea9d4e7df",
+    "en/journal/bespoke-coloured-marble-feature-wall-villa-living-room.html": "48fe7759df207ce7910539cbe7551c5211c7782b69834c9233e065d63a690e27",
+    "journal.html": "9bf0fe3bf44432ee7ce1f2debb7d0dec021ddbbbf18d30097d9600e8046e167e",
+    "en/journal.html": "95d0723a8e35789306d99d0ee877810ff18141dc23acbd9af9175ef8c3e51971",
+    "sitemap.xml": "f80c7a2c8cbf8ca9a86663ced287bd121a9389c82ad2c65a0944a150f3c247b4",
+    "assets/journal/villa-marble-colour-layout-600.webp": "73521cd87a20b203bbc1a19632a131709b28ce558371e779825525c1e0b90ec2",
+    "assets/journal/villa-marble-colour-layout-1200.webp": "e25e9fa4dc3fec1f06649006945a61f17ef3d907bc7c6d7d1609a98b9a7775eb"
   }
 }
