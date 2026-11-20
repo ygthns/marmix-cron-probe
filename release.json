@@ -1,28 +1,12 @@
 {
-  "revision": "abaf8ad7c07e43021c0377ce568c6eca8d912a66",
+  "revision": "f6a718081f2b24cc086a2ee6797ba1ea5d6d2874",
   "files": {
-    "assets/journal/marmix-recovery-limra-600.webp": "1d79a4b15c170d8560688e3a65f6a82f8eb8e22e7e091bf05450b29fd1e2e23d",
-    "assets/journal/marmix-recovery-limra-1200.webp": "27bf1c92f0379a1d396920bd4ca3e9c5ce5c4987ef3ebe04d552cfa06d0e43f4",
-    "assets/journal/marmix-recovery-motifs-600.webp": "263fd3eae0b397856d7c300227af2eebb79579a90043713a9cd6f2e4c6d8b25c",
-    "assets/journal/marmix-recovery-motifs-1200.webp": "14c87b0584228e4cef7d498b57c416343a523949e36c9d3b8533e1740ee1d949",
-    "assets/journal/marmix-recovery-us-600.webp": "e1bbae8986a620e5fb17fcbee2f6a106d91f88944f9997a6f3127ac7eb9b7729",
-    "assets/journal/marmix-recovery-us-1200.webp": "f998f283a2b1a7ea851e4b5384a000ec6ff29e97c73911c15bd79d223c5aca12",
-    "assets/journal/marmix-recovery-entrance-600.webp": "546050c1f40b9829b2517c21f0c48641aa4ff4454d65651b77d63414ecce56c9",
-    "assets/journal/marmix-recovery-entrance-1200.webp": "7fdb14025391272ed01b3b6a06ecb80639ddd9476606fc56ccfad6b3c9acf25f",
-    "assets/journal/marmix-recovery-sonic-600.webp": "de687d359097d70fb14c1379a0dc5aeeae8f58270bcdab6cc3883762c0d111df",
-    "assets/journal/marmix-recovery-sonic-1200.webp": "d1f9d4dc920bc87110f3ec9329cdaf20c7a6e3a57c23b96eb5611e187dcf0f14",
-    "journal.html": "d5cdd09202ce61d1f39416d12edb3c1dccb8edf0be92cf47e68e94d5e893e1b3",
-    "journal/ingiltere-limra-duvar-paneli-numune-teslim-kapsami.html": "df08aebef29ce8c68a824a6060bb9f87f1bc54291acdec132a90b569e2c59f84",
-    "journal/antik-misir-esintili-tas-duvar-motif-ritmi.html": "bf152463061f4c779d09d27b0f9eeacd52db7b4b2fbe33cfb041c9063a42c5ba",
-    "journal/abd-butik-otel-lobisi-cnc-tas-panel-tedarik-dosyasi.html": "d10bc8b4293c73d5319f8d4fa75af236c03864ad37dd074704d8e7849842a137",
-    "journal/ev-girisi-tek-duvar-dogal-tas-teklif-metraj.html": "36945d7511158374ebc16f7be5658a5f2fe29026cc4fc0d5b988f44bdf7828d5",
-    "journal/beyaz-visne-mermer-duvar-paneli-numune-karsilastirma.html": "17fa8926a3e262756d00113f1168d0f6c06431f55bf7734868735608d10fb441",
-    "en/journal.html": "7fd554679cf9f7a434de6bd580d739cb28b05546f628d1f6c53ac698d33d4e82",
-    "en/journal/uk-patterned-limra-wall-panels-sample-delivery-quote.html": "8b69d531412650e2054d542a0eb5616362fa1964d9384c1d1578edee3f754cb0",
-    "en/journal/egyptian-inspired-natural-stone-wall-motif-layout.html": "f21c71d1c1a60e54a395fd51ad8ef90d243186979a3512badecb38098dcfbb15",
-    "en/journal/us-boutique-hotel-lobby-cnc-stone-panel-specification.html": "a5bc909e069c64936cff14a6806c3df193d4bf200e14bf529cf6766ec22ba941",
-    "en/journal/small-entrance-stone-wall-quantity-and-quote.html": "91f8ce09a8bc5b61db51514bf3ce7d10b6c06cdbdba0879fb17a2f48d9b8913c",
-    "en/journal/white-burgundy-marble-wall-panel-sample-comparison.html": "018c1340d4960386296e926cd9bb75977fba77578617da815e759068cef90c27",
-    "sitemap.xml": "6904ae9daa5d2328c343c045ec4093747932d6264b91320e846c6b7d72306b2d"
+    "assets/journal/torsion-uk-sample-green-600.webp": "27a73f44f395c74c1cb8124d5df949a257e5fdc80f3e836621df80422061ba35",
+    "assets/journal/torsion-uk-sample-green-1200.webp": "774a3bb82978027e76c0ea422802235c90d71afd7f144621d74eba7a0e645674",
+    "journal.html": "5b2de8eb3a1d95126ebfc3ef83d6ffb9a0d11c026f5c63fa399bab12d3765562",
+    "journal/birlesik-krallik-yesil-mermer-rolyef-numune-onayi.html": "1b4fa14abe1a52291010066bcaef78be6f653fce418f3d69914a79a2517554b1",
+    "en/journal.html": "f9c3cb8d78ec6c753f1fc28ffc8406cfe9c945f096e508b384c32a5e7dae9de6",
+    "en/journal/uk-geometric-green-marble-wall-panel-sample-approval.html": "9e2572b72adbf800e5e05a6f195771e5706ec844aea36b3c004a721e4a536365",
+    "sitemap.xml": "5475354faecbf3230e5d96f7d42d303caf22a8b13e3155a7fb4a373705d35a49"
   }
 }
