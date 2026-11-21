@@ -1,12 +1,12 @@
 {
-  "revision": "f6a718081f2b24cc086a2ee6797ba1ea5d6d2874",
+  "revision": "064dff0ff50122c094245283f1032a45d78203da",
   "files": {
-    "assets/journal/torsion-uk-sample-green-600.webp": "27a73f44f395c74c1cb8124d5df949a257e5fdc80f3e836621df80422061ba35",
-    "assets/journal/torsion-uk-sample-green-1200.webp": "774a3bb82978027e76c0ea422802235c90d71afd7f144621d74eba7a0e645674",
-    "journal.html": "5b2de8eb3a1d95126ebfc3ef83d6ffb9a0d11c026f5c63fa399bab12d3765562",
-    "journal/birlesik-krallik-yesil-mermer-rolyef-numune-onayi.html": "1b4fa14abe1a52291010066bcaef78be6f653fce418f3d69914a79a2517554b1",
-    "en/journal.html": "f9c3cb8d78ec6c753f1fc28ffc8406cfe9c945f096e508b384c32a5e7dae9de6",
-    "en/journal/uk-geometric-green-marble-wall-panel-sample-approval.html": "9e2572b72adbf800e5e05a6f195771e5706ec844aea36b3c004a721e4a536365",
-    "sitemap.xml": "5475354faecbf3230e5d96f7d42d303caf22a8b13e3155a7fb4a373705d35a49"
+    "assets/journal/torsion-uk-sample-hotel-600.webp": "fa3fe51e9731f7000f5a97db15ad59bbce45e7131de2ad674a6ac9a6db1f28e3",
+    "assets/journal/torsion-uk-sample-hotel-1200.webp": "fad229b8e814383f856491ca8ff490487d0f8a10b8c4cf1a3f8b6f7a1fb5a37f",
+    "journal.html": "86c72ec6c9d7928e82b622efd1786bc7dc7123b86a0c3f09d059a2ff5797d78a",
+    "journal/otel-odalari-dogal-tas-kaplama-ornek-oda-onayi.html": "0612c514c2ba5d68946de44fd7aca85c153536471bb0d833f918eb7da373bc34",
+    "en/journal.html": "adcceb7946b9e20657db5e36cd6da3785a2fdd7a9bb8defc112f99950537ebf7",
+    "en/journal/hotel-guest-room-stone-wall-mockup-approval.html": "a9716e1f389c13ca07c6f1c41e81bd3077d42de14691bd05e38ffbb743926737",
+    "sitemap.xml": "3ab8cf32a9c6fea99d85285b63a0facc1dfa14e253b979c113b0ca548196195f"
   }
 }
