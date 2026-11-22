@@ -1,12 +1,12 @@
 {
-  "revision": "064dff0ff50122c094245283f1032a45d78203da",
+  "revision": "2e68e530fec84a4c6337e2be0c957d85d6c51cc9",
   "files": {
-    "assets/journal/torsion-uk-sample-hotel-600.webp": "fa3fe51e9731f7000f5a97db15ad59bbce45e7131de2ad674a6ac9a6db1f28e3",
-    "assets/journal/torsion-uk-sample-hotel-1200.webp": "fad229b8e814383f856491ca8ff490487d0f8a10b8c4cf1a3f8b6f7a1fb5a37f",
-    "journal.html": "86c72ec6c9d7928e82b622efd1786bc7dc7123b86a0c3f09d059a2ff5797d78a",
-    "journal/otel-odalari-dogal-tas-kaplama-ornek-oda-onayi.html": "0612c514c2ba5d68946de44fd7aca85c153536471bb0d833f918eb7da373bc34",
-    "en/journal.html": "adcceb7946b9e20657db5e36cd6da3785a2fdd7a9bb8defc112f99950537ebf7",
-    "en/journal/hotel-guest-room-stone-wall-mockup-approval.html": "a9716e1f389c13ca07c6f1c41e81bd3077d42de14691bd05e38ffbb743926737",
-    "sitemap.xml": "3ab8cf32a9c6fea99d85285b63a0facc1dfa14e253b979c113b0ca548196195f"
+    "assets/journal/torsion-uk-sample-travertine-600.webp": "d84e351b6e6f259b6a2a0e2320d5eb745839aea8343a7f88fd859a720614ed43",
+    "assets/journal/torsion-uk-sample-travertine-1200.webp": "5b8d97c7d0e3c9aad02dc38eb9a1a9095085f8efc68a9e223a8d43f81ba5ba5f",
+    "journal.html": "48771914b8882e77c48a85b1ca3ec009c063eee45abbdb51968ae04c5745900c",
+    "journal/abd-traverten-duvar-paneli-numuneden-uretim-partisine.html": "86a952f88655a3a7e0073b4d873cc53c27f39ea6fad86885b19e6e920eddf001",
+    "en/journal.html": "07bcd281e25128ed4c90b52bbaea12b4bd43e0a961cfdf0c2a9714a34dff0750",
+    "en/journal/us-travertine-wall-panels-sample-to-production.html": "da5f4e66c643d443c6b9de685409459a7f150578a3278bab29df2c6a43f75f32",
+    "sitemap.xml": "069c263108c8cfbae4fc691a96f9e467a56ad4206510018b467406b9fe300bec"
   }
 }
