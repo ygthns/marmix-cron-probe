@@ -1,12 +1,11 @@
 {
-  "revision": "2e68e530fec84a4c6337e2be0c957d85d6c51cc9",
+  "revision": "812e445e4394f4de51c041a25a170c9b4f608db9",
   "files": {
-    "assets/journal/torsion-uk-sample-travertine-600.webp": "d84e351b6e6f259b6a2a0e2320d5eb745839aea8343a7f88fd859a720614ed43",
-    "assets/journal/torsion-uk-sample-travertine-1200.webp": "5b8d97c7d0e3c9aad02dc38eb9a1a9095085f8efc68a9e223a8d43f81ba5ba5f",
-    "journal.html": "48771914b8882e77c48a85b1ca3ec009c063eee45abbdb51968ae04c5745900c",
-    "journal/abd-traverten-duvar-paneli-numuneden-uretim-partisine.html": "86a952f88655a3a7e0073b4d873cc53c27f39ea6fad86885b19e6e920eddf001",
-    "en/journal.html": "07bcd281e25128ed4c90b52bbaea12b4bd43e0a961cfdf0c2a9714a34dff0750",
-    "en/journal/us-travertine-wall-panels-sample-to-production.html": "da5f4e66c643d443c6b9de685409459a7f150578a3278bab29df2c6a43f75f32",
-    "sitemap.xml": "069c263108c8cfbae4fc691a96f9e467a56ad4206510018b467406b9fe300bec"
+    "journal/ozel-tasarim-mermer-duvar-kaplama-fiyat-teklifi.html": "7904df2c8b05a4755ca14259704b616d1384dbb70c15aea7ac48e9901349c7ef",
+    "en/journal/bespoke-marble-wall-cladding-quotation.html": "e1c437a93aea4fe7b51eb747144581012663b4db1f98fb67c736a494ace6ea03",
+    "en/journal/tv-feature-wall-marble-vs-travertine.html": "d993950860f928d36ce4b699a51a3061eb7545cf214ebbf50075e31e071f905c",
+    "en/journal/sourcing-natural-stone-wall-panels-turkey-us.html": "f347c53261dcf95ce41db21ffe601cd2279c8a9fa2d25dc35a329105216bd310",
+    "en/journal/custom-cnc-natural-stone-wall-panels-samples-quotes.html": "ba7eed319eecdfca45d95a358c25dc3f7dd040938c9a238635f4f6cb822c5a1d",
+    "sitemap.xml": "8779bd6fbef02f3bb143224c6f99104e090f3a85e906d8a55a17b3fc8578f481"
   }
 }
