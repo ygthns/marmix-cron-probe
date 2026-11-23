@@ -1,14 +1,11 @@
 {
-  "revision": "d506e1a1acef0ba5a3f968f42785afbda13ce920",
+  "revision": "70a87b4b08ee5d3abc19c9067d3c014889ab0a63",
   "files": {
-    "journal.html": "09d2e2d1b0b0a8b05b76ea94a04544350809c45ff6c6be8316c75bce99a22e69",
-    "journal/ingiltere-limra-yedek-panel-teslim-plani.html": "1c4ca0fcd68e615024baf8bb46bba08d06e0cea871ba599bbed7a86f75bc121e",
-    "journal/abd-otel-resepsiyonunda-tas-fon-numune-kabul.html": "6b9d75ece11d4356a897643c9cacdc8da165e3d5d3a21abcebdba0957cb6de67",
-    "journal/istanbul-showroom-iki-tas-teklifini-karsilastirma.html": "0d4f81891e13320605a0df6eda5eabaf6a020e21416b009fd3f8175ebf0d5259",
-    "en/journal.html": "df37c3ae08550a9889fe399a68d9458019838f34373f137be528978475546f9a",
-    "en/journal/uk-patterned-limestone-spare-panel-schedule.html": "7d9479d01d12decd59eb093e89f0370fab0d5c85e19e676e39f8c3e559abc215",
-    "en/journal/us-hotel-reception-stone-wall-signage-mockup.html": "0e28db87a10c20bd95605b2a359ab30a9960d2066b3e7edad193ba7abd4cc9fc",
-    "en/journal/istanbul-showroom-compare-two-stone-wall-quotes.html": "0d32a8600124b7405646ec33db0e41d9106b9318133a3604f4c85a873834bf3c",
-    "sitemap.xml": "4d2a5152da7bc94ad1f54a0f7daac767177e3aa5408c2496c2ba7049021388a3"
+    "journal/ingiltere-limra-yedek-panel-teslim-plani.html": "b7c2221491097bccb771d4c5da963c2bd325f543973bec3de8d09b1b61ae75b7",
+    "journal/abd-otel-resepsiyonunda-tas-fon-numune-kabul.html": "1f4c1837a42ce22f3a50c0dbfea7902a9309da46c8de4077ff87de5bb37d5a6a",
+    "journal/istanbul-showroom-iki-tas-teklifini-karsilastirma.html": "0e1c3e0dc40a00ff2732276f5a7170501fe0282bdc9a2b29a73e5ae7aefe8592",
+    "en/journal/uk-patterned-limestone-spare-panel-schedule.html": "e00aad95734214d6c8e62d6a19330d011d7a9f8037123f5787d2f22667ca7999",
+    "en/journal/us-hotel-reception-stone-wall-signage-mockup.html": "c15cb04be87bdda175f8f154843dd7ab8f2842791c006c18f88d7dd05f63e8d1",
+    "en/journal/istanbul-showroom-compare-two-stone-wall-quotes.html": "15200e5fcc3b08dd46446b4b964d30904b51bf84d2ff4e15c9c04199ff2c3070"
   }
 }
