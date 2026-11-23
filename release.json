@@ -1,12 +1,14 @@
 {
-  "revision": "c3a8fbce489c6b3a569e4f823f437dbfc0372c6e",
+  "revision": "d506e1a1acef0ba5a3f968f42785afbda13ce920",
   "files": {
-    "assets/journal/origo-mixed-marble-motif-layout-600.webp": "030d0832b7fdf18b2607766b2e319d6b13331db8545db552d752036e73c556c7",
-    "assets/journal/origo-mixed-marble-motif-layout-1200.webp": "d101c8bc8cf771f61cf101eb958873be96325727a376ee687bc12f8b76210e8c",
-    "journal.html": "4895f2ff8a9861acd9af35a0163cf202bf60cccc9e59d96f9c740fd415110410",
-    "journal/origo-farkli-mermerlerle-duvar-kompozisyonu.html": "52e46b0eb58fdeadb57e0b66d7b5843f345a1ad46900275bc69ac36a3d8bb5f1",
-    "en/journal.html": "79e657808b42a37b0d1510a255cbeb91fa73e533dcd78598fdc4b62c862f0495",
-    "en/journal/origo-mixed-marble-wall-composition.html": "7ba11164ec7370e69d816a01dee8db993614e08c13e2fe3167f03ad35c8f49db",
-    "sitemap.xml": "c0cc32aa47b35dbdf4e9c176de563e035be8d04c7cf26398d5c5b06d0e13c4bf"
+    "journal.html": "09d2e2d1b0b0a8b05b76ea94a04544350809c45ff6c6be8316c75bce99a22e69",
+    "journal/ingiltere-limra-yedek-panel-teslim-plani.html": "1c4ca0fcd68e615024baf8bb46bba08d06e0cea871ba599bbed7a86f75bc121e",
+    "journal/abd-otel-resepsiyonunda-tas-fon-numune-kabul.html": "6b9d75ece11d4356a897643c9cacdc8da165e3d5d3a21abcebdba0957cb6de67",
+    "journal/istanbul-showroom-iki-tas-teklifini-karsilastirma.html": "0d4f81891e13320605a0df6eda5eabaf6a020e21416b009fd3f8175ebf0d5259",
+    "en/journal.html": "df37c3ae08550a9889fe399a68d9458019838f34373f137be528978475546f9a",
+    "en/journal/uk-patterned-limestone-spare-panel-schedule.html": "7d9479d01d12decd59eb093e89f0370fab0d5c85e19e676e39f8c3e559abc215",
+    "en/journal/us-hotel-reception-stone-wall-signage-mockup.html": "0e28db87a10c20bd95605b2a359ab30a9960d2066b3e7edad193ba7abd4cc9fc",
+    "en/journal/istanbul-showroom-compare-two-stone-wall-quotes.html": "0d32a8600124b7405646ec33db0e41d9106b9318133a3604f4c85a873834bf3c",
+    "sitemap.xml": "4d2a5152da7bc94ad1f54a0f7daac767177e3aa5408c2496c2ba7049021388a3"
   }
 }
