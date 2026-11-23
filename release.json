@@ -1,11 +1,12 @@
 {
-  "revision": "812e445e4394f4de51c041a25a170c9b4f608db9",
+  "revision": "c3a8fbce489c6b3a569e4f823f437dbfc0372c6e",
   "files": {
-    "journal/ozel-tasarim-mermer-duvar-kaplama-fiyat-teklifi.html": "7904df2c8b05a4755ca14259704b616d1384dbb70c15aea7ac48e9901349c7ef",
-    "en/journal/bespoke-marble-wall-cladding-quotation.html": "e1c437a93aea4fe7b51eb747144581012663b4db1f98fb67c736a494ace6ea03",
-    "en/journal/tv-feature-wall-marble-vs-travertine.html": "d993950860f928d36ce4b699a51a3061eb7545cf214ebbf50075e31e071f905c",
-    "en/journal/sourcing-natural-stone-wall-panels-turkey-us.html": "f347c53261dcf95ce41db21ffe601cd2279c8a9fa2d25dc35a329105216bd310",
-    "en/journal/custom-cnc-natural-stone-wall-panels-samples-quotes.html": "ba7eed319eecdfca45d95a358c25dc3f7dd040938c9a238635f4f6cb822c5a1d",
-    "sitemap.xml": "8779bd6fbef02f3bb143224c6f99104e090f3a85e906d8a55a17b3fc8578f481"
+    "assets/journal/origo-mixed-marble-motif-layout-600.webp": "030d0832b7fdf18b2607766b2e319d6b13331db8545db552d752036e73c556c7",
+    "assets/journal/origo-mixed-marble-motif-layout-1200.webp": "d101c8bc8cf771f61cf101eb958873be96325727a376ee687bc12f8b76210e8c",
+    "journal.html": "4895f2ff8a9861acd9af35a0163cf202bf60cccc9e59d96f9c740fd415110410",
+    "journal/origo-farkli-mermerlerle-duvar-kompozisyonu.html": "52e46b0eb58fdeadb57e0b66d7b5843f345a1ad46900275bc69ac36a3d8bb5f1",
+    "en/journal.html": "79e657808b42a37b0d1510a255cbeb91fa73e533dcd78598fdc4b62c862f0495",
+    "en/journal/origo-mixed-marble-wall-composition.html": "7ba11164ec7370e69d816a01dee8db993614e08c13e2fe3167f03ad35c8f49db",
+    "sitemap.xml": "c0cc32aa47b35dbdf4e9c176de563e035be8d04c7cf26398d5c5b06d0e13c4bf"
   }
 }
