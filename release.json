@@ -1,12 +1,12 @@
 {
-  "revision": "fff7009fa5dccfeeda15e515512e6a9e00a052ec",
+  "revision": "cc8f71e38d22b070ee8323421a9e79711b0ed98c",
   "files": {
-    "assets/journal/cratix-grey-travertine-pattern-direction-600.webp": "3c667d0da6576bf3477e3365860f5278730b5a2b64d98092597e17d535c45c15",
-    "assets/journal/cratix-grey-travertine-pattern-direction-1200.webp": "b71d5eb4e5ede5cf513bb6d7b7e38cd7b105fb53c3a804ce91faf45fa63cc53f",
-    "journal.html": "86b398e03f35bff4b5ce36f9c4767907b428e098d4daea06d382cdf5e51aae8f",
-    "journal/cratix-gri-traverten-duvar-panel-motif-yonu.html": "c160e7cfb3ce697f12df83febb50687140513310733c7b172ab3fe5b33fb8b25",
-    "en/journal.html": "3a7ae0d7112875fe8e8db8e677abf01dbb7c8afaaec15c9b1fdfda2f63e8c681",
-    "en/journal/cratix-grey-travertine-wall-panel-pattern-direction.html": "19dd3e21102b1718f52de12ce8eaf542d68cd7247f810d0d2b60766af87633c8",
-    "sitemap.xml": "df907a58726fb24583d6dcdd159468347fe07dcb4ada247b7f593d47c5cd5ff8"
+    "journal.html": "e031d1c59c84e3d6d3ff881e4cd20ca6f0555c4ec6fac79daaba40a102f95581",
+    "journal/dubai-marble-stone-world-2026-dogal-tas.html": "0390df6906b410189489eac3f2ec3afcc8b5fb94bf7f079457307a8fb6985f90",
+    "journal/petra-heights-londra-tasiyici-dogal-tas.html": "b081ca90262306ad513a65e06780cccec6cf69aac6fba581f4c62e60da3af021",
+    "en/journal.html": "50ff53e3cc1fc4365f1658efb807563eb4d58fbf3c62972057f8b8774f717f78",
+    "en/journal/dubai-marble-stone-world-2026-natural-stone.html": "debad2e6d061858c2822dd9fbee085988b78a4fb9eccc5639b98f35255ff94ca",
+    "en/journal/petra-heights-london-loadbearing-natural-stone.html": "fe68548d3c5c3eb9954844d26625a818712dcbbd12a4ce3a1a0434f0c9684b25",
+    "sitemap.xml": "24d5ca354e82591ffd59a466ea4c293bf30f1557dab3438c8e79d779dd536e06"
   }
 }
