@@ -1,11 +1,12 @@
 {
-  "revision": "70a87b4b08ee5d3abc19c9067d3c014889ab0a63",
+  "revision": "fff7009fa5dccfeeda15e515512e6a9e00a052ec",
   "files": {
-    "journal/ingiltere-limra-yedek-panel-teslim-plani.html": "b7c2221491097bccb771d4c5da963c2bd325f543973bec3de8d09b1b61ae75b7",
-    "journal/abd-otel-resepsiyonunda-tas-fon-numune-kabul.html": "1f4c1837a42ce22f3a50c0dbfea7902a9309da46c8de4077ff87de5bb37d5a6a",
-    "journal/istanbul-showroom-iki-tas-teklifini-karsilastirma.html": "0e1c3e0dc40a00ff2732276f5a7170501fe0282bdc9a2b29a73e5ae7aefe8592",
-    "en/journal/uk-patterned-limestone-spare-panel-schedule.html": "e00aad95734214d6c8e62d6a19330d011d7a9f8037123f5787d2f22667ca7999",
-    "en/journal/us-hotel-reception-stone-wall-signage-mockup.html": "c15cb04be87bdda175f8f154843dd7ab8f2842791c006c18f88d7dd05f63e8d1",
-    "en/journal/istanbul-showroom-compare-two-stone-wall-quotes.html": "15200e5fcc3b08dd46446b4b964d30904b51bf84d2ff4e15c9c04199ff2c3070"
+    "assets/journal/cratix-grey-travertine-pattern-direction-600.webp": "3c667d0da6576bf3477e3365860f5278730b5a2b64d98092597e17d535c45c15",
+    "assets/journal/cratix-grey-travertine-pattern-direction-1200.webp": "b71d5eb4e5ede5cf513bb6d7b7e38cd7b105fb53c3a804ce91faf45fa63cc53f",
+    "journal.html": "86b398e03f35bff4b5ce36f9c4767907b428e098d4daea06d382cdf5e51aae8f",
+    "journal/cratix-gri-traverten-duvar-panel-motif-yonu.html": "c160e7cfb3ce697f12df83febb50687140513310733c7b172ab3fe5b33fb8b25",
+    "en/journal.html": "3a7ae0d7112875fe8e8db8e677abf01dbb7c8afaaec15c9b1fdfda2f63e8c681",
+    "en/journal/cratix-grey-travertine-wall-panel-pattern-direction.html": "19dd3e21102b1718f52de12ce8eaf542d68cd7247f810d0d2b60766af87633c8",
+    "sitemap.xml": "df907a58726fb24583d6dcdd159468347fe07dcb4ada247b7f593d47c5cd5ff8"
   }
 }
