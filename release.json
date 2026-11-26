@@ -1,12 +1,10 @@
 {
-  "revision": "a1709fb67adb2af3b309c563de9ffe2f7d546193",
+  "revision": "238a74dde747c5b28bac112e7028313ca5182ced",
   "files": {
-    "assets/journal/sonic-marble-console-layout-600.webp": "9b052f9bae007c6ade99f92dcf3f3f387d4ed1fc6426616b357466fb52d74409",
-    "assets/journal/sonic-marble-console-layout-1200.webp": "03bcef48871b64f14cc2c66ea810d8f845346460d3603e9a3ec24e9ce9e2328c",
-    "journal.html": "e905254d6de67682f4a3e0817891e555981aea61725395770c8b411aa094afb2",
-    "journal/sonic-leylak-konsol-arkasi-mermer-duvar-detayi.html": "5f1cb12fe300ba0b9dbc280a3290ead6867c5675b88a14607fd132dbca05e494",
-    "en/journal.html": "e83e89456b134874a3f958d9b8daf98cc91b8422d0bb8af88eb00cbbf89f07ac",
-    "en/journal/sonic-lilac-marble-wall-behind-console.html": "6785a09c575bd50c43b6f90ee73e3100c8a5f1116fa2c04072bd7b7426153fd2",
-    "sitemap.xml": "b398add64897ce7b1e9a82c09adbda10bdbe0359cb2d8af78e74175bd14ddb08"
+    "journal/sonic-leylak-konsol-arkasi-mermer-duvar-detayi.html": "01fc0c718b20b8c90acb74c878bcda9cfa16d9618a358f2822eb9378353b367a",
+    "en/journal/sonic-lilac-marble-wall-behind-console.html": "95422b29fb6733ba2afc06ea3709a037baa0b0b864947e3a3213c3959ea99d19",
+    "de/journal/sonic-lilac-marmorwand-hinter-konsole.html": "568e4ea78f61806eea21b19a1ea6033fb26ce83b08b4f5afaadc9efaa39f54a7",
+    "de/journal.html": "60acfef12a1c09d21472e3c71458dd441109e49c6484116e9768e29247fbf46b",
+    "sitemap.xml": "638cb6491ef58dc0e680de53f2b3e11c3cbf9a4c25cde42dabe86ee8832b04b4"
   }
 }
