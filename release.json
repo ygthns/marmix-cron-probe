@@ -1,10 +1,14 @@
 {
-  "revision": "238a74dde747c5b28bac112e7028313ca5182ced",
+  "revision": "3d5e73ebd9fda1efaf0850503b375f752001e00b",
   "files": {
-    "journal/sonic-leylak-konsol-arkasi-mermer-duvar-detayi.html": "01fc0c718b20b8c90acb74c878bcda9cfa16d9618a358f2822eb9378353b367a",
-    "en/journal/sonic-lilac-marble-wall-behind-console.html": "95422b29fb6733ba2afc06ea3709a037baa0b0b864947e3a3213c3959ea99d19",
-    "de/journal/sonic-lilac-marmorwand-hinter-konsole.html": "568e4ea78f61806eea21b19a1ea6033fb26ce83b08b4f5afaadc9efaa39f54a7",
-    "de/journal.html": "60acfef12a1c09d21472e3c71458dd441109e49c6484116e9768e29247fbf46b",
-    "sitemap.xml": "638cb6491ef58dc0e680de53f2b3e11c3cbf9a4c25cde42dabe86ee8832b04b4"
+    "assets/journal/torsion-grey-reception-relief-600.webp": "e53bd32d491c6f7765b20ec14548941f2a99cc81c596724423dfbd0aa65a345c",
+    "assets/journal/torsion-grey-reception-relief-1200.webp": "169646e3e0842bc218470e0d56f4769f3f19663857b08c75b7e14d08059c6ba0",
+    "journal/torsion-grey-ofis-resepsiyonu-uc-bakis-noktasi.html": "67db3e52a78f5761be5bd7eefeb80fc16ea78323339c42ab5ff6c497c4bfb713",
+    "journal.html": "4b2588d528b39dfb6ea0292b1f60c26d7600c68db708d629a20ea15a9be715b3",
+    "en/journal/torsion-grey-office-reception-three-view-sample.html": "5cb3d77522d7a8b8b4f683e92291ae26b2c904ab87edd80db8557dd089ea2afc",
+    "en/journal.html": "6916c6e1257a32c3ac15e43b9c2ce2a6cd3c8551bedbb4f327c4eb4277c8a79a",
+    "de/journal/torsion-grey-empfang-buero-drei-blickwinkel.html": "a5f907f44c85fb6a26e09e958963035dde24f7b2f3093d15f357a00f639cb1af",
+    "de/journal.html": "8efe64921c964f21bd6549995013585400273f6fc7794c8a60ea5e1023feb1e1",
+    "sitemap.xml": "ca03aeedf25d0b67b7b0b3bc6e795fc74982d9d01e9458aed2219283f7a77c6f"
   }
 }
