@@ -1,14 +1,14 @@
 {
-  "revision": "3d5e73ebd9fda1efaf0850503b375f752001e00b",
+  "revision": "4af8fc4b0279bf9e3d3d6aa9642f01c5811dae19",
   "files": {
-    "assets/journal/torsion-grey-reception-relief-600.webp": "e53bd32d491c6f7765b20ec14548941f2a99cc81c596724423dfbd0aa65a345c",
-    "assets/journal/torsion-grey-reception-relief-1200.webp": "169646e3e0842bc218470e0d56f4769f3f19663857b08c75b7e14d08059c6ba0",
-    "journal/torsion-grey-ofis-resepsiyonu-uc-bakis-noktasi.html": "67db3e52a78f5761be5bd7eefeb80fc16ea78323339c42ab5ff6c497c4bfb713",
-    "journal.html": "4b2588d528b39dfb6ea0292b1f60c26d7600c68db708d629a20ea15a9be715b3",
-    "en/journal/torsion-grey-office-reception-three-view-sample.html": "5cb3d77522d7a8b8b4f683e92291ae26b2c904ab87edd80db8557dd089ea2afc",
-    "en/journal.html": "6916c6e1257a32c3ac15e43b9c2ce2a6cd3c8551bedbb4f327c4eb4277c8a79a",
-    "de/journal/torsion-grey-empfang-buero-drei-blickwinkel.html": "a5f907f44c85fb6a26e09e958963035dde24f7b2f3093d15f357a00f639cb1af",
-    "de/journal.html": "8efe64921c964f21bd6549995013585400273f6fc7794c8a60ea5e1023feb1e1",
-    "sitemap.xml": "ca03aeedf25d0b67b7b0b3bc6e795fc74982d9d01e9458aed2219283f7a77c6f"
+    "assets/journal/ligo-hotel-bedside-wall-detail-600.webp": "c022885b61a32b6fac4d372f40ff6b0663b4742dcb53c2cbc25320009707b72f",
+    "assets/journal/ligo-hotel-bedside-wall-detail-1200.webp": "652b09266effda2f9106baa99a9ccaf02e446aa19c0ec37c2a6b5c1879edd142",
+    "journal/otel-odasi-mermer-duvar-priz-okuma-lambasi.html": "f8b9f03739153e411c480f443364db69d7fbf8e3de8a42d0762eea1be25b12f2",
+    "journal.html": "f94b0192b9d1af044081b9940b88274c2119f0044452f03b520bda330265f7e2",
+    "en/journal/hotel-room-marble-wall-sockets-reading-lights.html": "ba67a3aa7d91fc4c5e28c62d494c323f96aa6cc6646b55e8130ee27f7bdfb9d2",
+    "en/journal.html": "a0b5e9bfda606d6c009225407b97ec4387da92eeb632d1759102b66a10f88cee",
+    "de/journal/hotelzimmer-marmorwand-steckdosen-leseleuchten.html": "3e9ea2ee8d5d7c8312a4ab45ed9b15a7139fbf057adf16c4b51b7ae7d155483c",
+    "de/journal.html": "4247550f21c2f76f496833667ee85ff453d628b805544e50ccbe45256a2d25b9",
+    "sitemap.xml": "a3930223fb8860cfbdeaa7cecf5474b35b471af85c495a944ef19d4d4192c160"
   }
 }
