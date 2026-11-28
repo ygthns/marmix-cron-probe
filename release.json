@@ -1,14 +1,6 @@
 {
-  "revision": "4af8fc4b0279bf9e3d3d6aa9642f01c5811dae19",
+  "revision": "bc175af75e8acdcab444f8dbfe7872e3f37aecc0",
   "files": {
-    "assets/journal/ligo-hotel-bedside-wall-detail-600.webp": "c022885b61a32b6fac4d372f40ff6b0663b4742dcb53c2cbc25320009707b72f",
-    "assets/journal/ligo-hotel-bedside-wall-detail-1200.webp": "652b09266effda2f9106baa99a9ccaf02e446aa19c0ec37c2a6b5c1879edd142",
-    "journal/otel-odasi-mermer-duvar-priz-okuma-lambasi.html": "f8b9f03739153e411c480f443364db69d7fbf8e3de8a42d0762eea1be25b12f2",
-    "journal.html": "f94b0192b9d1af044081b9940b88274c2119f0044452f03b520bda330265f7e2",
-    "en/journal/hotel-room-marble-wall-sockets-reading-lights.html": "ba67a3aa7d91fc4c5e28c62d494c323f96aa6cc6646b55e8130ee27f7bdfb9d2",
-    "en/journal.html": "a0b5e9bfda606d6c009225407b97ec4387da92eeb632d1759102b66a10f88cee",
-    "de/journal/hotelzimmer-marmorwand-steckdosen-leseleuchten.html": "3e9ea2ee8d5d7c8312a4ab45ed9b15a7139fbf057adf16c4b51b7ae7d155483c",
-    "de/journal.html": "4247550f21c2f76f496833667ee85ff453d628b805544e50ccbe45256a2d25b9",
-    "sitemap.xml": "a3930223fb8860cfbdeaa7cecf5474b35b471af85c495a944ef19d4d4192c160"
+    "en/journal/living-room-travertine-wall-cladding.html": "7b18c7515aea3057f12492d3f7a087d129e71d2408bab3974a8c382f04ad5aa9"
   }
 }
